@@ -1,0 +1,36 @@
+# Ignore dataset and large files
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab / Jupyter runtime
+.colab/
+*.swp
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# data
+content/
