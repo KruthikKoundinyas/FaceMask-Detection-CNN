@@ -4,3 +4,7 @@ matplotlib
 tensorflow
 keras
 opencv-python
+scikit-learn
+seaborn
+imutils
+requests
